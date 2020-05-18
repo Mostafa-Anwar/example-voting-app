@@ -1,2 +1,2 @@
 cicd pipeline branch
-- run cicd #1
+- run cicd 1
